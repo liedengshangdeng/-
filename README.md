@@ -11,6 +11,8 @@ $ pip install -r requirements.txt
 ![image](https://github.com/liedengshangdeng/-/assets/95830082/08bc6ce3-be83-44d5-9747-61c67de1d7a5)
 ![image](https://github.com/liedengshangdeng/-/assets/95830082/7a307dff-f650-4a16-aba2-8df0f684e8ee)
 ![image](https://github.com/liedengshangdeng/-/assets/95830082/68de6c1c-c95b-4e54-bd82-7e835d88711d)
+## 使用说明
+需在代码中更改自己的openai api key
 
 
 
